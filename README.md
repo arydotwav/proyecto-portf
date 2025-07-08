@@ -40,7 +40,7 @@ Solo tenes que correr el archivo main.py y seguir los pasos (dependiendo de lo q
 ## 📁 Estructura
 proyecto-portf/
 ├── main.py
-├── text_to_speech.py
 ├── speech_to_text.py
-├── requirements.txt
-└── venv/
+├── text_to_speech.py
+├── requirements.py
+└── output.mp3
