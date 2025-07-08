@@ -1,0 +1,8 @@
+SpeechRecognition
+pydub
+pocketsphinx
+newspaper3k
+gTTS
+nltk
+PyAudio
+[html_clean]
