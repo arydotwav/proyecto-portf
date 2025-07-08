@@ -5,4 +5,4 @@ newspaper3k
 gTTS
 nltk
 PyAudio
-[html_clean]
+lxml_html_clean
